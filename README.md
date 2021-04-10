@@ -1,7 +1,6 @@
-# Advent of Code 2018
+# Advent of Code
 This is a collection my solutions written in Python for 
-[Advent of Code 2018](https://adventofcode.com/2018). This was my first year
-playing and enjoyed it quite a bit so thank you to Eric Wastl for hosting.
+[Advent of Code](https://adventofcode.com/).
 
 Solutions were written to solve the given problem as quickly as 
 I could with only minor cleanup before uploading. So please forgive
